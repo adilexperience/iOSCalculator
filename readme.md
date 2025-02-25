@@ -5,7 +5,7 @@
 
 ### 1. **Small iPhone**
 
-![Home Screen](ipad-land)
+![Home Screen](ReadmeAssets/ipad-land.png)
 
 ### 2. **iPhone 16 Pro max**
 
