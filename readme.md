@@ -5,15 +5,18 @@
 
 ### 1. **Small iPhone**
 
-![Home Screen](ReadmeAssets/ipad-land.png)
+![Small iPhone Landscape](ReadmeAssets/small-iphone-land.png)
+![Small iPhone Portrait ](ReadmeAssets/small-iphone-port.png)
 
 ### 2. **iPhone 16 Pro max**
 
-![Feature Screen 1](ReadMeAssets/2.jpg)
+![iPhone Landscape](ReadmeAssets/iphone-land.png)
+![iPhone Portrait ](ReadmeAssets/iphone-port.png)
 
 ### 3. **iPad**
 
-![Feature Screen 2](ReadMeAssets/3.jpg)
+![iPhone Landscape](ReadmeAssets/ipad-land.png)
+![iPhone Portrait ](ReadmeAssets/ipad-port.png)
 
 ---
 
