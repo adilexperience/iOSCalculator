@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		C58D7A592D6DB19200FFE9DD /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = C58D7A582D6DB18D00FFE9DD /* readme.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		C50868A12D6D021F00E3A153 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		C508688A2D6D021E00E3A153 /* iOSCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C50868A02D6D021F00E3A153 /* iOSCalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iOSCalculatorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C50868AA2D6D021F00E3A153 /* iOSCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iOSCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C58D7A582D6DB18D00FFE9DD /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -88,6 +93,8 @@
 		C50868812D6D021E00E3A153 = {
 			isa = PBXGroup;
 			children = (
+				C58D7A582D6DB18D00FFE9DD /* readme.md */,
+				C58D7A572D6DB18300FFE9DD /* ReadmeAssets */,
 				C508688C2D6D021E00E3A153 /* iOSCalculator */,
 				C50868A32D6D021F00E3A153 /* iOSCalculatorTests */,
 				C50868AD2D6D021F00E3A153 /* iOSCalculatorUITests */,
@@ -103,6 +110,13 @@
 				C50868AA2D6D021F00E3A153 /* iOSCalculatorUITests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		C58D7A572D6DB18300FFE9DD /* ReadmeAssets */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ReadmeAssets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -225,6 +239,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C58D7A592D6DB19200FFE9DD /* readme.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
